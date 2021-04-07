@@ -1,6 +1,9 @@
-#!/usr/bin/env python3
+# Составить UML-диаграмму деятельности и программу с использованием конструкции ветвления и вычислить значение функции
+# !/usr/bin/env python3
 # -*- coding: utf-8 -*-
 import math
+
+
 if __name__ == '__main__':
     x = float(input("Value of x? "))
 if x <= 0:
